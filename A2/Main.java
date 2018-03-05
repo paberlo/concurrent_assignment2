@@ -17,14 +17,6 @@ public class Main {
 	
 
 		
-		//cola=new ColaSynchronized();
-		//cola=new ColaBusyWait();
-		//cola=new ColaConSeñales();
-		//queue=new ColaConSeñalesVariosConsumidores();
-		//cola=new ColaActivaVariosConsumidores();
-		
-		//new Consumidor(cola);
-		
 		
 		
 	}
