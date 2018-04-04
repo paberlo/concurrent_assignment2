@@ -5,10 +5,14 @@
 package concurrent_assignment2.B1;
 
 import java.awt.*;
-import java.applet.*;
+
 
 public class NumberCanvas extends Canvas {
-    int value_ = 0;
+    /**
+	 * 
+	 */
+	private static final long serialVersionUID = 1090654957294784541L;
+	int value_ = 0;
     String title_;
 
     Font f1 = new Font("Helvetica",Font.BOLD,36);

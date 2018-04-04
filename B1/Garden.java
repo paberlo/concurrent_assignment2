@@ -9,12 +9,16 @@ package concurrent_assignment2.B1;
 import java.awt.*;
 import java.awt.event.*;
 import java.applet.*;
-import java.applet.*;
+
 
 
 public class Garden extends Applet {
 
-    Button goButton;
+    /**
+	 * 
+	 */
+	private static final long serialVersionUID = 1108993515780510398L;
+	Button goButton;
     Turnstile turnstile1;
     Turnstile turnstile2;
     Counter counter;

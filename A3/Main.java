@@ -1,6 +1,5 @@
 package concurrent_assignment2.A3;
 
-import concurrent_assignment2.A_intro.Reader;
 import concurrent_assignment2.A_intro.Writer;
 
 
